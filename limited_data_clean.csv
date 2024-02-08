@@ -1,4 +1,4 @@
-State,TotalPop,Income,Poverty,Unemployment_x,Employed,MeanCommute,Professional,Service,Population2022,MedianIncome2022,PopulrVoteParty2022,AQIGood,CostofLiving,ChildPoverty,ULOCALE,2022Population,CrimeRate2016
+State,TotalPop,Income,Poverty,Unemployment_x,Employed,MeanCommute,Professional,Service,Population2022,MedianIncome2022,PopulrVoteParty2022,AQIGood,CostofLiving,ChildPoverty,ULOCALE,Population2022,CrimeRate2016
 Texas,15051,53051,19.3,4.1,5433,21.7,27.4,20.2,"14,836",74725.21,R,0.75,62278.05,32.1,42-Rural: Distant,14836,27/1000
 New York,295685,75585,9.1,6.7,144934,32.2,39.7,19.4,"297,545",104990.91,D,0.90,105669.6,11.8,41-Rural: Fringe,297545, 14/1000
 Maine,50994,41549,17.8,8.8,22217,24.4,27.4,18.5,"24,546",53694.79,D,0.85,64875.33,26,42-Rural: Distant,24546, 25/1000
